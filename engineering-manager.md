@@ -1,4 +1,4 @@
-# Task List Generator & Manager
+# Engineering Manager
 
 ## Overview
 This system takes Product Requirements Documents (PRDs) and generates comprehensive task lists with subtasks divided between **Claude Code** (backend) and **Cursor Agent** (frontend). It manages the complete implementation lifecycle from task generation to completion tracking.
